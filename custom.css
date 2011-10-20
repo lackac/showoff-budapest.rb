@@ -1,18 +1,22 @@
-.bullets ol {
-  list-style-type: decimal;
+.bullets ul {
+  list-style-type: none;
+  padding: 0;
   font-size: 3em;
 }
-.bullets ol li {
+.bullets ul li {
   text-align: center;
+  margin-left: 0;
   padding: 25px;
 }
 
-.smbullets ol {
-  list-style-type: decimal;
+.smbullets ul {
+  list-style-type: none;
+  padding: 0;
   font-size: 2em;
 }
-.smbullets ol li {
+.smbullets ul li {
   text-align: center;
+  margin-left: 0;
   padding: 10px;
 }
 

@@ -21,7 +21,7 @@
 !SLIDE center
 ## Ruby rockstars
 
-![Yehuda Katz presenting to budapest.rb](yehuda.jpg)
+![Yehuda Katz presenting to budapest.rb](yehuda.png)
 
 !SLIDE smbullets center
 ## Meetup types so far
@@ -34,7 +34,7 @@
 !SLIDE incremental bullets center
 ## Moving forward
 
-* budapest.rb unmeetup
+* **budapest.rb unmeetup**
 
 !SLIDE bullets
 # Thank you!
