@@ -29,7 +29,15 @@
 * short presentations
 * longer presentations
 * workshop
-* skype presentation
+* skype presentations
+
+!SLIDE smbullets center
+## Organizers
+
+* László Bácsi
+* Bence Golda
+* Bálint Érdi
+* Tamás Tompa
 
 !SLIDE incremental bullets center
 ## Moving forward
